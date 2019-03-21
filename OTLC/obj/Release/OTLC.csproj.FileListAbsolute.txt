@@ -1,0 +1,167 @@
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\OTLC.exe.config
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\OTLC.exe.manifest
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\OTLC.application
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\OTLC.exe
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\OTLC.pdb
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportSource.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.Shared.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\FlashControlV71.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\ShockwaveFlashObjects.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\proyectos\c_sharp\OTLC\OTLC\bin\Release\stdole.dll
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.csproj.ResolveComReference.cache
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.contenedor.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.ContratosInfo.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.ContratosReportes.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.Cumpleaños.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.EstadoPuntos.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.PagoCC.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.PagoDetalle.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.PagoEng.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.Puntos.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.RegalosCatalogo.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.Inicio.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.PagoCapital.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.PagoCapitalCap.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.Permisos.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.Properties.Resources.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.Reestructuracion.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.RegalosVenta.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.TipoCambio.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.VisorReportes.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.csproj.GenerateResource.Cache
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.exe.manifest
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.application
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.exe
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.pdb
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.csprojResolveAssemblyReference.cache
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.NotasDetalle.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.Produccion.resources
+C:\proyectos\c_sharp\OTLC\OTLC\obj\Release\OTLC.Porcentajes.resources
+C:\Users\Desarrollo\Documents\RESPALDOS\CODIGO FUENTE DE VERSIONES PUBLICADAS OTLC\OTLC 2.0.0.1\OTLC\bin\Release\OTLC.exe.config
+C:\Users\Desarrollo\Documents\RESPALDOS\CODIGO FUENTE DE VERSIONES PUBLICADAS OTLC\OTLC 2.0.0.1\OTLC\obj\Release\OTLC.csproj.ResolveComReference.cache
+C:\Users\Desarrollo\Documents\RESPALDOS\CODIGO FUENTE DE VERSIONES PUBLICADAS OTLC\OTLC 2.0.0.1\OTLC\obj\Release\OTLC.exe
+C:\Users\Desarrollo\Documents\RESPALDOS\CODIGO FUENTE DE VERSIONES PUBLICADAS OTLC\OTLC 2.0.0.1\OTLC\obj\Release\OTLC.pdb
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\OTLC.exe.config
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.csproj.ResolveComReference.cache
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.exe
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.pdb
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\OTLC.exe.manifest
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\OTLC.application
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\OTLC.exe
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\OTLC.pdb
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportSource.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.Shared.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\FlashControlV71.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\ShockwaveFlashObjects.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\bin\Release\stdole.dll
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.csprojResolveAssemblyReference.cache
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.contenedor.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.ContratosInfo.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.ContratosReportes.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.Cumpleaños.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.NotasDetalle.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.Porcentajes.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.Produccion.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.EstadoPuntos.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.PagoCC.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.PagoDetalle.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.PagoEng.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.Puntos.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.RegalosCatalogo.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.Inicio.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.PagoCapital.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.PagoCapitalCap.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.Permisos.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.Properties.Resources.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.Reestructuracion.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.RegalosVenta.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.TipoCambio.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.VisorReportes.resources
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.csproj.GenerateResource.Cache
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.exe.manifest
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.application
+C:\proyectos\c_sharp\OTLC 2.0.0.2\OTLC\obj\Release\OTLC.InfoSistema.resources
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\OTLC.exe.config
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\OTLC.exe.manifest
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\OTLC.application
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\OTLC.exe
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\OTLC.pdb
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.Shared.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\FlashControlV71.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\ShockwaveFlashObjects.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Proyectos\CSharp\OTLC\OTLC\bin\Release\stdole.dll
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.csprojAssemblyReference.cache
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.csproj.ResolveComReference.cache
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.contenedor.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.InfoSistema.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.ContratosInfo.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.ContratosReportes.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.Cumpleaños.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.NotasDetalle.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.Porcentajes.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.Produccion.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.EstadoPuntos.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.PagoCC.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.PagoDetalle.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.PagoEng.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.Puntos.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.RegalosCatalogo.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.Inicio.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.PagoCapital.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.PagoCapitalCap.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.Permisos.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.Properties.Resources.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.Reestructuracion.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.RegalosVenta.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.TipoCambio.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.VisorReportes.resources
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.csproj.GenerateResource.cache
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.csproj.CoreCompileInputs.cache
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.exe.manifest
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.application
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.csproj.CopyComplete
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.exe
+C:\Proyectos\CSharp\OTLC\OTLC\obj\Release\OTLC.pdb
